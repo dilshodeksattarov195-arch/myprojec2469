@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokencpdate",
+        "uuid": 22675296,
+        "checksum": "xvnotn"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
